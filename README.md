@@ -1,2 +1,2 @@
 # SimonGame
-A little memory game i've made using the materials provided by Angela Yu. 
+A little memory game i've made using the project by Angela Yu. 
